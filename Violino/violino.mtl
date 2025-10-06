@@ -1,0 +1,36 @@
+newmtl MT_E_2325_Skrzypce_MT_E_2325_Skrzypce_Material_u1_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd MT_E_2325_Skrzypce_u1_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl MT_E_2325_Skrzypce_MT_E_2325_Skrzypce_Material_u1_v3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd MT_E_2325_Skrzypce_u1_v2.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl MT_E_2325_Skrzypce_MT_E_2325_Skrzypce_Material_u2_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd MT_E_2325_Skrzypce_u2_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl MT_E_2325_Skrzypce_MT_E_2325_Skrzypce_Material_u2_v3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd MT_E_2325_Skrzypce_u2_v2.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
