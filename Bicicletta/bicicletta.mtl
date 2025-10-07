@@ -1,0 +1,70 @@
+newmtl BicycleFBXASC045BackFBXASC045TireSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 34.00
+newmtl BicycleFBXASC045BodySG
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl BicycleFBXASC045BodySG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 23.00
+newmtl BicycleFBXASC045CenterFBXASC045GearSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 23.00
+newmtl BicycleFBXASC045ChainSG
+illum 4
+Kd 0.16 0.16 0.16
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 23.00
+newmtl BicycleFBXASC045HandleBarsSG
+illum 4
+Kd 0.38 0.32 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl BicycleFBXASC045LeftFBXASC045PedalSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl BicycleFBXASC045SeatSG
+illum 4
+Kd 0.06 0.03 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 29.39
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

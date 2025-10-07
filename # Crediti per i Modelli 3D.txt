@@ -1,0 +1,17 @@
+# Crediti per i Modelli 3D
+
+Questo progetto utilizza modelli 3D rilasciati con licenze libere e aperte. Si ringraziano i seguenti artisti per il loro fantastico lavoro.
+
+---
+
+### Modelli con Licenza Creative Commons Attribution (CC BY)
+*Questi modelli richiedono l'attribuzione.*
+
+* **"Dog"** by [SirLlamar](https://sketchfab.com/SirLlamar), licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+    * *Fonte:* `https://sketchfab.com/3d-models/dog-e395f26615ca445ab32f01ded17ff3bf`
+
+* **"Old Bicycle"** by [David](https://sketchfab.com/davete), licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+    * *Fonte:* `https://sketchfab.com/3d-models/old-bicycle-17ab00cb733443a2b552a2b620a68087`
+
+* **"low poly Hospital"** by [mohit.s.chauhan](https://sketchfab.com/mohit.s.chauhan), licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+    * *Fonte:* `https://sketchfab.com/3d-models/low-poly-hospital-738972de7752491382457c068ab0a6ac`
